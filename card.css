@@ -11,8 +11,7 @@ html {
 .card {
   position: relative;
 
-  max-width: 285px;
-  max-height: 300px;
+  display: inline-block;
 
   color: #ffffff;
   text-align: center;
